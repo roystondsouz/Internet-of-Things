@@ -6,3 +6,8 @@
 6. Temperature and Humidity: https://wokwi.com/projects/334346231606149714
 7. IR: https://wokwi.com/projects/334347782067323474
 8. PIR: https://wokwi.com/projects/334347041012449875
+9. button led:https://wokwi.com/projects/334431013706924626
+10. led fade:https://wokwi.com/projects/334431225002328659
+11. MOtion Sensor:https://wokwi.com/projects/334431854492910163
+12. Motion Sensor Buzzer:https://wokwi.com/projects/334433831716127314
+13. Ultra Sonic sensor LED:https://wokwi.com/projects/334434440478458452
