@@ -11,3 +11,7 @@
 11. MOtion Sensor:https://wokwi.com/projects/334431854492910163
 12. Motion Sensor Buzzer:https://wokwi.com/projects/334433831716127314
 13. Ultra Sonic sensor LED:https://wokwi.com/projects/334434440478458452
+14. Servo motor: https://wokwi.com/projects/334976704649888340
+15. servo potentiometer:https://wokwi.com/projects/334979197058417234
+16. Servo motor controlled by button:https://wokwi.com/projects/334977135889351250
+17
