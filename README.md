@@ -14,4 +14,5 @@
 14. Servo motor: https://wokwi.com/projects/334976704649888340
 15. servo potentiometer:https://wokwi.com/projects/334979197058417234
 16. Servo motor controlled by button:https://wokwi.com/projects/334977135889351250
-17
+17. Buzzer https://wokwi.com/projects/335066289535976018
+18. Buzzer with push button:https://wokwi.com/projects/335070551476273746
