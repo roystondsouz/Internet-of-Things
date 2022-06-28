@@ -16,3 +16,5 @@
 16. Servo motor controlled by button:https://wokwi.com/projects/334977135889351250
 17. Buzzer https://wokwi.com/projects/335066289535976018
 18. Buzzer with push button:https://wokwi.com/projects/335070551476273746
+19.Buzzer with ultrasonic sensor:https://wokwi.com/projects/335072341158527571
+20.Buzzer with ultrasonic sensor and LED:https://wokwi.com/projects/335614105184371284
